@@ -10,7 +10,7 @@ import Prices from './pages/Prices';
 import Contact from './pages/Contact';
 
 const App = () => {
-  const phoneNumber = '+5693074005'; // Número de WhatsApp parametrizable
+  const phoneNumber = '+56930740059'; // Número de WhatsApp parametrizable
 
   return (
     <Router>
